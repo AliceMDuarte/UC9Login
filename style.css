@@ -27,3 +27,8 @@ header{
     text-decoration: none;
     text-transform: uppercase;
 }
+
+.logo {
+    width: 100px;
+    height: 80px;
+}
